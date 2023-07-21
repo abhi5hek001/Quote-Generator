@@ -1,0 +1,24 @@
+@media screen and (max-width: 760px) {
+    .icon-container {
+        position: fixed;
+        top: 10px;
+        right: 10px;
+    }
+
+    .text{
+        position: fixed;
+        bottom: -250px;
+        left: -250px;
+    }
+
+    .container{
+        width: 40vw;
+        height: auto;
+    }
+
+    .image img{
+        padding: 0 15px;
+        height: 200px;
+        width: auto;
+    }
+}
